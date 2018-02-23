@@ -1,0 +1,13 @@
+[package]
+name = "record"
+version = "0.1.0"
+authors = ["Andy Bell <andy.bell.github@gmail.com>"]
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+conduit-test = "0.8"
+hyper = "0.11"
+hyper-tls = "0.1"
+futures = "0.1"
+tokio-core = "0.1"
+tokio-service = "0.1"
